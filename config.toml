@@ -1,5 +1,5 @@
 baseURL = "https://scdhub.org"
-languageCode = "zh-Hans"
+languageCode = "en"
 defaultContentLanguage = "en"
 title = "SCD Hub"
 theme = "dream"
@@ -8,7 +8,7 @@ copyright = '2021 SCD Hub <a rel="license" href="http://creativecommons.org/lice
 
 googleAnalytics = "UA-98295641-1"
 
-disqusShortname = "g1eny0ung"
+disqusShortname = "scdhub"
 
 enableRobotsTXT = true
 
@@ -58,15 +58,15 @@ hasCJKLanguage = true
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
-  email = "g1enyy0ung@gmail.com"
-  twitter = "g1eny0ung"
-  facebook = "g1eny0ung"
-  instagram = "g1eny0ung"
+  email = "acmeideal@gmail.com"
+  twitter = "scdhub"
+  facebook = "sustainable-community-development-hub"
+  instagram = "ecocitylearningportal"
   # mastodon = ""
-  linkedin = "g1eny0ung"
-  github = "g1eny0ung"
+  linkedin = "ecocity"
+  github = "sustainablecommunitydevelopmenthub"
   stackoverflow = "5676489/g1eny0ung"
-  codepen = "g1eny0ung"
+  codepen = "biomassives"
 
   siteStartYear = 2016
 
