@@ -74,7 +74,7 @@ hasCJKLanguage = true
 
   highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-  highlightjsExtraLanguages = ["clojure", "ocaml"]
+  highlightjsExtraLanguages = ["Drinking water", "Wastewater and Sewage", "Municipal Solid Waste"]
   highlightjsTheme = "tomorrow"
   highlightjsThemeDark = "tomorrow-night"
 
