@@ -1,6 +1,6 @@
-# blog
+# SCD Hub website 2021
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e8f2124c-4190-4631-a753-e7bf685391c0/deploy-status)](https://app.netlify.com/sites/g1eny0ung-site-preview/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/409fdc9d-91d7-4eb3-ba8c-1ed992feef5a/deploy-status)](https://app.netlify.com/sites/scdtech/deploys)
 
 <https://scdhub.org
 
